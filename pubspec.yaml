@@ -3,5 +3,3 @@ description: A sample web application
 dependencies:
   browser: any
 dev_dependencies:
-  runtime:
-    path: ../../../web_runtime
